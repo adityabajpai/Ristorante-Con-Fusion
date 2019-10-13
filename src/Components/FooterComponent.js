@@ -17,11 +17,11 @@ function Footer(props) {
                 <div className="col-7 col-sm-5">
                     <h5>Our Address</h5>
                     <address>
-		              121, Clear Water Bay Road<br />
-		              Clear Water Bay, Kowloon<br />
-		              HONG KONG<br />
-		              <i className="fa fa-phone fa-lg"></i>: +852 1234 5678<br />
-		              <i className="fa fa-fax fa-lg"></i>: +852 8765 4321<br />
+                        121, Abc def ghi jkl<br />
+                        Abc def ghi, mno<br />
+                        INDIA<br />
+		              <i className="fa fa-phone fa-lg"></i>: +91 01234 56789<br />
+		              <i className="fa fa-fax fa-lg"></i>: +91 98765 43210<br />
 		              <i className="fa fa-envelope fa-lg"></i>: <a href="mailto:confusion@food.net">
                          confusion@food.net</a>
                     </address>
